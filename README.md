@@ -2,7 +2,7 @@
 
 ## Veja funcionando
 
-![Menu do Screen Sound](screenshots/menu.png)
+![Menu do Screen Sound](screenshots/Menu.png)
 ![Bandas registradas](screenshots/bandas.png)
 ![Média de uma banda](screenshots/media.png)
 
