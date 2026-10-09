@@ -1,5 +1,11 @@
 # 🎵 Screen Sound
 
+## Veja funcionando
+
+![Menu do Screen Sound](screenshots/menu.png)
+![Bandas registradas](screenshots/bandas.png)
+![Média de uma banda](screenshots/media.png)
+
 Aplicação de console em C# para registrar bandas, avaliar com notas e ver a média de cada uma. Também tem uma demonstração com álbuns, músicas e podcast.
 
 ## Funcionalidades
